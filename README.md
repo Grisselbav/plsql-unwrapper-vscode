@@ -6,13 +6,13 @@ Runs locally without an internet connection.
 
 ## Example
 
-Open a wrapped PL/SQL unit (procedure, function, package specification, package body, type specification, or type body) in an SQL editor. Right-click inside the editor to display the context menu. Select `Unwrap PL/SQL` or simply press `Ctrl-Shift-U` to unwrap the code.
+Open a wrapped PL/SQL unit (procedure, function, package specification, package body, type specification, or type body) in an SQL editor. Right-click inside the editor to display the context menu and select `Unwrap PL/SQL`.
 
-![Wrapped](https://www.grisselbav.com/wp-content/uploads/2025/03/wrapped.png)
+![Wrapped](https://github.com/Grisselbav/plsql-unwrapper-vscode/blob/main/images/wrapped.png?raw=true)
 
 The unwrapped code replaces the editor's contents.
 
-![Unwrapped](https://www.grisselbav.com/wp-content/uploads/2025/03/unwrapped.png)
+![Unwrapped](https://github.com/Grisselbav/plsql-unwrapper-vscode/blob/main/images/unwrapped.png?raw=true)
 
 ## Requirements
 
